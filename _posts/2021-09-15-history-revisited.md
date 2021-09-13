@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: How we can view our bash history a little more colorfully
-categories: [markdown]
+categories: [commands. libraries]
 title: history Revisited
 ---
 

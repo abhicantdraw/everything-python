@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: So, what are our virtual environment creation options as of 2021?
-categories: [markdown]
+categories: [setup]
 title: Virtual Environments in Python
 ---
 
